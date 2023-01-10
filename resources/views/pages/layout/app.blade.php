@@ -66,8 +66,6 @@
             <div class="navbar-custom-menu r-side">
                 <ul class="nav navbar-nav">
                     <a  id="metamaskbutton" class="btn btn-primary mr-3"> Connect Wallet</a>
-
-
                 </ul>
             </div>
         </nav>
