@@ -234,12 +234,11 @@
 <!-- Vendor JS -->
 <script src="{{ asset('js/vendors.min.js') }}"></script>
 
-<script src="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/main-dark/assets/vendor_components/apexcharts-bundle/irregular-data-series.js"></script>
-<script src="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/main-dark/assets/vendor_components/apexcharts-bundle/dist/apexcharts.js"></script>
-<script src="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/main-dark/assets/vendor_components/Web-Ticker-master/jquery.webticker.min.js"></script>
-<script src="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/main-dark/assets/vendor_components/datatable/datatables.min.js"></script>
+<script src="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/assets/vendor_components/apexcharts-bundle/data.js"></script>
+<script src="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/assets/vendor_components/apexcharts-bundle/dist/apexcharts.js"></script>
 <script src="https://www.amcharts.com/lib/4/core.js"></script>
 <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+<script src="https://www.amcharts.com/lib/4/themes/kelly.js"></script>
 <script src="https://www.amcharts.com/lib/4/themes/dark.js"></script>
 <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
 
